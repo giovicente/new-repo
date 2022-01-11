@@ -4,4 +4,5 @@ https://git-scm.com/about/branching-and-merging
 https://initialcommit.com/blog/How-Did-Git-Get-Its-Name
 https://education.github.com/git-cheat-sheet-education.pdf
 https://www.conventionalcommits.org/en/v1.0.0/#specification
-link A
+https://www.jetbrains.com/help/idea/comparing-files-and-folders.html
+https://code.visualstudio.com/docs/editor/versioncontrol
